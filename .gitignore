@@ -1,0 +1,6 @@
+.next
+node_modules
+.fab
+fab.zip
+.next-old
+yarn-error.log
